@@ -1,66 +1,21 @@
-## Foundry
+# Hey! Welcome!
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+This is a workshop projects repository. Here, you will find some magical stuff that may give you ideas.
 
-Foundry consists of:
+Feel free to contribute if you want. You also are welcome to our community. I will provide some links below.
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+Remember that the code in this repo is for workshops. Therefore, it doesn't have any security check or control access.
 
-## Documentation
+Please don't use it in production.
 
-https://book.getfoundry.sh/
+## Join us!
 
-## Usage
+[Chainlink](https://chain.link/).
 
-### Build
+[Chainlink Discord](https://discord.com/invite/chainlink)
 
-```shell
-$ forge build
-```
+[Chainlink Youtube](https://www.youtube.com/channel/UCnjkrlqaWEBSnKZQ71gdyFA)
 
-### Test
+[Bellum Galaxy](https://www.bellumgalaxy.com)
 
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+[Bellum Galaxy Discord](https://discord.gg/H2UpdzbbRJ)
