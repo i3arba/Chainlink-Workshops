@@ -7,3 +7,6 @@
 [submodule "Trident-Workshop/lib/chainlink"]
 	path = Trident-Workshop/lib/chainlink
 	url = https://github.com/smartcontractkit/chainlink
+[submodule "lastHomework/lib/forge-std"]
+	path = lastHomework/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
