@@ -10,3 +10,15 @@
 [submodule "lastHomework/lib/forge-std"]
 	path = lastHomework/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lastHomework/lib/chainlink-local"]
+	path = lastHomework/lib/chainlink-local
+	url = https://github.com/smartcontractkit/chainlink-local
+[submodule "lastHomework/lib/ccip"]
+	path = lastHomework/lib/ccip
+	url = https://github.com/smartcontractkit/ccip
+[submodule "lastHomework/lib/chainlink"]
+	path = lastHomework/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "lastHomework/lib/openzeppelin-contracts"]
+	path = lastHomework/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
